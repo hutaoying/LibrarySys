@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//WebContent/JS/onclock.JS=GBK
+encoding//src/com/action/Manager.java=GBK
+encoding//src/com/action/Reader.java=GBK
+encoding//src/com/actionForm/ManagerForm.java=GBK
+encoding//src/com/core/ChStr.java=GBK
+encoding//src/com/dao/BorrowDAO.java=GBK
+encoding//src/com/dao/ManagerDAO.java=GBK
+encoding//src/com/dao/ReaderDAO.java=GBK
+encoding/<project>=UTF-8
